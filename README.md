@@ -2,7 +2,7 @@
 
 ## 🌱 About me
 
-I'm from the Brazil 🇧🇷. At the moment, I'm in FATEC college, looking for being more complete every day!
+I'm from the Brazil 🇧🇷. At the moment, I'm in FATEC college, seeking continuous improvement!
 
 ## 🔨 Technologies that i use
 <div style="display: inline_block"><br>
