@@ -40,37 +40,30 @@
 
 ---
 ### 💻 Ferramentas e IDEs
-<div style="flex-basis: 48%;"> 
-  <p align="left">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-      height="30px" 
-      width="30px" 
-      alt="VSCode"
-      style="padding-right: 10px;"
-    />
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
-      height="30" 
-      width="30" 
-      alt="PyCharm"
-      style="padding-right: 10px;"
-    />
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-      height="30" 
-      width="30" 
-      alt="Git"
-      style="padding-right: 10px;"
-    />
-    <img 
-      src="https://skillicons.dev/icons?i=github" 
-      height="30" 
-      width="30" 
-      alt="GitHub"
-      style="padding-right: 10px;"
-    />
-  </p>
-</div>
-<hr>
-</hr>
+
+<img 
+    align="left" 
+    alt="VSCode"
+    title="VSCode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PyCharm" 
+    title="PyCharm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
