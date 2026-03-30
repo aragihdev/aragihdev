@@ -39,7 +39,7 @@
 <br/>
 
 ---
-### 💻 Ferramentas e estruturas 
+### 💻 Ferramentas e IDEs
 <div style="flex-basis: 48%;"> 
   <p align="left">
     <img 
