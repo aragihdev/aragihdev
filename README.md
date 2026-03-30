@@ -1,8 +1,5 @@
 ## Hi there 👋 , my name is Rafael Meneghin
 
-<br/>
-<br/>
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
