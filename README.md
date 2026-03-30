@@ -76,4 +76,4 @@
 </hr>
   <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.redd.it/5x8yy9y990ue1.gif" alt="Imagem">
+  <img align="center" src="https://i.redd.it/v60t49y990ue1.gif" alt="Imagem">
