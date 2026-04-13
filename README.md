@@ -68,8 +68,3 @@
 <br/>
 <br/>
 <p align="center">
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="[https://readme-typing-svg.demolab.com/?lines=Sempre+aprendendo+coisas+novas](https://www.behance.net/gallery/107019725/Halloween-Chill/modules/613707671)&font=Fira+Code&center=true&width=440&height=45&color=#101084&vCenter=true&pause=3000&size=22" />
-  </a>
-</p>
